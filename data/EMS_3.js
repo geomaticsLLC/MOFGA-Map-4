@@ -1,0 +1,1 @@
+var json_EMS_3 = {"type":"FeatureCollection","name":"EMS_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-69.290842362991413,44.588764839017863]}}]}
